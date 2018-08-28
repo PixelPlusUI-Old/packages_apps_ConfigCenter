@@ -19,7 +19,7 @@ package com.ppui.config.center.fragments.lock_screen;
 import android.os.Bundle;
 
 import com.android.settings.R;
-import com.android.settings.carbon.CustomSettingsPreferenceFragment;
+import com.ppui.config.center.preferences.CustomSettingsPreferenceFragment;
 
 public class LockScreen extends CustomSettingsPreferenceFragment {
     private static final String TAG = "LockScreen";
