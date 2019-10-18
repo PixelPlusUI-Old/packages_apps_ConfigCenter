@@ -64,6 +64,7 @@
     <string name="statusbar_qs_keys_title">Статусбар/Швидкі налаштування</string>
     <string name="volte_keys_cg_title">Значок VoLTE</string>
     <string name="navbar_keys_cg_title">Панель навігації</string>
+    <string name="dt_keys_cg_title">Подвійне натискання</string>
 
     <!-- Show statusbar on lockscreen -->
     <string name="lockscreen_show_status_bar_title">Статусбар</string>
@@ -100,5 +101,9 @@
     <string name="clock_date_format">Формат дати</string>
     <string name="clock_date_string_edittext_title">Потрібно бути в дата форматі: ММ/дд/рр</string>
     <string name="clock_date_string_edittext_summary">Введіть текст</string>
+
+    <!-- Double Tap gestures -->
+    <string name="double_tap_sleep_lockscreen_title">Натисніть два рази, щоб потрапити у режим сну</string>
+    <string name="double_tap_sleep_lockscreen_summary">Натисніть у любому місці на єкрані блокування, щоб вимкнути екран</string>
 
 </resources>
