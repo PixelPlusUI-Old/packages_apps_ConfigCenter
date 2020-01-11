@@ -27,4 +27,117 @@
     android:title="@string/blur_quicksettings"
     android:summary="@string/blur_quicksettings_subtitle"
     android:defaultValue="true" />
+    
+    <PreferenceCategory
+        android:key="power_key"
+        android:title="@string/hardware_keys_power_key_title" >
+
+        <PreferenceScreen
+            android:key="power_menu"
+            android:title="@string/power_menu_title"
+            android:summary="@string/power_menu_subtitle"
+            android:fragment="com.ppui.config.center.fragments.PowerMenuActions" />
+
+    </PreferenceCategory>
+
+    <!-- Gestures -->
+    <PreferenceCategory
+        android:key="gestures_category"
+        android:title="@string/gestures_category">
+
+        <!-- Double tap sleep on lockscreen -->
+        <com.exui.config.center.preferences.SystemSettingSwitchPreference
+            android:key="double_tap_sleep_lockscreen"
+            android:title="@string/double_tap_sleep_lockscreen_title"
+            android:summary="@string/double_tap_sleep_lockscreen_summary"
+            android:defaultValue="false" />
+
+        <com.exui.config.center.preferences.SystemSettingSwitchPreference
+            android:key="double_tap_sleep_gesture"
+            android:title="@string/double_tap_sleep_gesture_title"
+            android:summary="@string/double_tap_sleep_gesture_summary"
+            android:defaultValue="false" />
+
+    </PreferenceCategory>
+
+    <!-- Lock screen -->
+    <PreferenceCategory
+        android:key="lockscreen_category"
+        android:title="@string/lockscreen_category">
+
+        <SwitchPreference
+            android:key="fingerprint_success_vib"
+            android:title="@string/fprint_sucess_vib_title"
+            android:summary="@string/fprint_sucess_vib_summary"
+            android:persistent="false" />
+
+        <Preference
+            android:title="@string/lockscreen_tuner_title"
+            android:summary="@string/lockscreen_tuner_summary" >
+            <intent android:action="android.intent.action.MAIN"
+                android:targetPackage="com.android.systemui"
+                android:targetClass="com.android.systemui.tuner.LockscreenActivity" />
+        </Preference>
+
+    </PreferenceCategory>
+
+    <!-- Interface -->
+    <PreferenceCategory
+        android:key="interface_category"
+        android:title="@string/interface_category">
+
+        <Preference
+            android:key="ui_tuner"
+            android:title="@string/uituner_title"
+            android:summary="@string/uituner_subtitle"
+            android:fragment="com.exui.config.center.fragments.UiTunerFragment" />
+
+        <Preference
+            android:key="charging_light"
+            android:title="@string/battery_light_settings"
+            android:summary="@string/battery_light_summary"
+            android:fragment="com.exui.config.center.fragments.BatteryLightSettings" />
+
+        <com.exui.config.center.preferences.SystemSettingSwitchPreference
+            android:key="settings_suggestion_cards"
+            android:title="@string/settings_suggestions"
+            android:summary="@string/settings_suggestions_summary"
+            android:defaultValue="false" />
+
+    </PreferenceCategory>
+
+    <!-- Notifications -->
+    <PreferenceCategory
+        android:key="notifications_category"
+        android:title="@string/notifications_category">
+
+        <Preference
+            android:key="ambient_light_settings"
+            android:title="@string/ambient_light_settings_title"
+            android:summary="@string/pulse_ambient_light_summary"
+            android:fragment="com.exui.config.center.fragments.AmbientLight" />
+
+        <com.exui.config.center.preferences.SystemSettingSwitchPreference
+            android:key="hide_smart_replies"
+            android:title="@string/hide_smart_replies_title"
+            android:summary="@string/hide_smart_replies_summary"
+            android:defaultValue="false"/>
+
+        <ListPreference
+            android:key="heads_up_time_out"
+            android:title="@string/heads_up_time_out_title"
+            android:entries="@array/heads_up_time_out_entries"
+            android:entryValues="@array/heads_up_time_out_values"
+            android:persistent="false" />
+
+        <ListPreference
+            android:key="heads_up_snooze_time"
+            android:title="@string/heads_up_snooze_title"
+            android:entries="@array/heads_up_snooze_entries"
+            android:entryValues="@array/heads_up_snooze_values"
+            android:persistent="false" />
+
+    </PreferenceCategory>
+
+>>>>>>> 2cde663... add power menu preferences
 </PreferenceScreen>
