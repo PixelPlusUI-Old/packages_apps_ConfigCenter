@@ -14,7 +14,7 @@
  * limitations under the License
  */
 
-package com.six.settings.preferences;
+package com.ppui.settings.preferences;
 
 import android.content.Context;
 import android.content.res.TypedArray;
