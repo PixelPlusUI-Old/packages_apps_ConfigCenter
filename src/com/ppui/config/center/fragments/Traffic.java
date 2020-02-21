@@ -41,8 +41,8 @@ import android.text.TextUtils;
 import android.view.View;
 
 import com.android.settings.SettingsPreferenceFragment;
-import com.exui.config.center.preferences.CustomSeekBarPreference;
-import com.exui.config.center.preferences.SystemSettingSwitchPreference;
+import com.ppui.config.center.preferences.CustomSeekBarPreference;
+import com.ppui.config.center.preferences.SystemSettingSwitchPreference;
 import com.android.settings.Utils;
 import android.util.Log;
 
