@@ -18,7 +18,7 @@
 
 <Preference
     android:key="traffic"
-    android:fragment="com.exui.config.center.fragments.Traffic"
+    android:fragment="com.ppui.config.center.fragments.Traffic"
     android:title="@string/traffic_title"
     android:summary="@string/traffic_title_summary" />
 
