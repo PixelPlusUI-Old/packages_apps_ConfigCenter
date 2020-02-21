@@ -14,7 +14,7 @@
  * under the License.
  */
 
-package com.exui.config.center.preferences;
+package com.ppui.config.center.preferences;
 
 import android.app.Activity;
 import android.content.Context;
