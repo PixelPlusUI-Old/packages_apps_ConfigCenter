@@ -19,8 +19,9 @@ package com.ppui.config.center.preferences;
 
 import android.os.Bundle;
 import android.provider.Settings;
-import android.support.v7.preference.Preference;
-import android.support.v7.preference.TwoStatePreference;
+
+import androidx.preference.Preference;
+import androidx.preference.TwoStatePreference;
 
 import com.android.internal.logging.nano.MetricsProto.MetricsEvent;
 import com.android.settings.SettingsPreferenceFragment;
@@ -139,6 +140,6 @@ public abstract class CustomSettingsPreferenceFragment extends SettingsPreferenc
 
     @Override
     public int getMetricsCategory() {
-        return MetricsEvent.SPARKS;
+        return MetricsEvent.CONFIGCENTER;
     }
 }
