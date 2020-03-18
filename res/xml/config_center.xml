@@ -39,11 +39,4 @@
             android:fragment="com.ppui.config.center.fragments.PowerMenuActions" />
 
     </PreferenceCategory>
-
-<com.evolution.settings.preference.SystemSettingSwitchPreference
-    android:key="volte_icon"
-    android:title="@string/volte_icon_title"
-    android:summary="@string/volte_icon_summary"
-    android:defaultValue="false" />
-
 </PreferenceScreen>
