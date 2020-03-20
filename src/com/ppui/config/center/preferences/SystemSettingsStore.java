@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.ppui.config.center.preference;
+package com.ppui.config.center.preferences;
 
 import android.content.ContentResolver;
 import android.preference.PreferenceDataStore;
