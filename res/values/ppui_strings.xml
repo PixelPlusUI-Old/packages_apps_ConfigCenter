@@ -69,4 +69,8 @@
     <string name="volte_icon_oos">VoLTE OOS Icon</string>
     <string name="volte_icon_hd">HD Icon</string>
 
+    <!-- Titles for new preference categories -->
+    <string name="statusbar_qs_keys_title">Status bar/QS</string>
+    <string name="volte_keys_cg_title">VoLTE Icon</string>
+
 </resources>
