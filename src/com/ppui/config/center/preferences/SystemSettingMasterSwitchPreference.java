@@ -21,7 +21,7 @@ import android.util.AttributeSet;
 
 import com.android.settings.R;
 
-import com.colt.settings.preference.SystemSettingsStore;
+import com.ppui.config.center.preferences.SystemSettingsStore;
 
 public class SystemSettingMasterSwitchPreference extends MasterSwitchPreference {
 
