@@ -23,7 +23,7 @@
 
     <!-- Network traffic -->
     <string name="traffic_title">Indicateurs de trafic</string>
-    <string name="traffic_title_summary">Personnaliser l'indicateurs de trafic réseau</string>
+    <string name="traffic_title_summary">"Personnaliser l'indicateurs de trafic réseau"</string>
     <string name="network_traffic_title">Trafic réseau</string>
     <string name="network_traffic_type">"Sélectionnez le type d'activité"</string>
     <string name="show_network_traffic_up">Liaison montante</string>
