@@ -19,7 +19,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- App Title -->
-    <string name="config_center_title">Paramètres PixelPlusUI</string>
+    <string name="config_center_title">Le Pixelizer</string>
 
     <!-- Network traffic -->
     <string name="traffic_title">Indicateurs de trafic</string>
@@ -82,7 +82,7 @@
 
     <!-- Statusbar Clock -->
     <string name="clock_style_category_title">"Paramètres d'horloge"</string>
-    <string name="clock_style_category_summary">Statusbar Clock Tuner</string>
+    <string name="clock_style_category_summary">Barre d'état de l'horloge du tuner</string>
     <string name="status_bar_clock_title">"Paramètres d'horloge"</string>
     <string name="status_bar_clock_show">"Afficher l'horloge et la date"</string>
     <string name="status_bar_clock_style_title">"Style d'horloge"</string>
@@ -91,7 +91,7 @@
     <string name="status_bar_clock_style_left">Gauche</string>
     <string name="status_bar_am_pm_title">Style AM/PM</string>
     <string name="status_bar_am_pm_info">"L'horloge 24 heures est activée"</string>
-    <string name="status_bar_am_pm_normal">Normal</string>
+    <string name="status_bar_am_pm_normal">Ordinaire</string>
     <string name="status_bar_am_pm_small">Petite</string>
     <string name="status_bar_am_pm_hidden">Masqué (par défaut)</string>
     <string name="clock_seconds_display">Afficher les secondes</string>
@@ -101,11 +101,11 @@
     <string name="clock_date_display_small">Taille de police petite</string>
     <string name="clock_date_display_normal">Taille de police normal</string>
     <string name="clock_date_style">Style de date</string>
-    <string name="clock_date_style_normal">Normal</string>
-    <string name="clock_date_style_lowercase">Lowercase</string>
-    <string name="clock_date_style_uppercase">Uppercase</string>
-    <string name="clock_date_format_custom">Custom java format</string>
-    <string name="clock_date_format">Date format</string>
+    <string name="clock_date_style_normal">Ordinaire</string>
+    <string name="clock_date_style_lowercase">Minuscule</string>
+    <string name="clock_date_style_uppercase">Majuscule</string>
+    <string name="clock_date_format_custom">Format java personnalisé</string>
+    <string name="clock_date_format">Format de date</string>
     <string name="clock_date_string_edittext_title">La date doit être au format par exemple. MM/dd/yy</string>
     <string name="clock_date_string_edittext_summary">Entrez une chaîne</string>
 
