@@ -18,7 +18,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Title -->
-    <string name="config_center_title">The Pixelizer</string>
+    <string name="config_center_title">Tiếng Việt</string>
     <!-- Network traffic -->
     <string name="traffic_title">Traffic indicators</string>
     <string name="traffic_title_summary">Customize network traffic indicators</string>
