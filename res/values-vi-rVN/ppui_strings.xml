@@ -18,19 +18,19 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Title -->
-    <string name="config_center_title">Tiếng Việt</string>
+    <string name="config_center_title">Trung tâm tùy chỉnh</string>
     <!-- Network traffic -->
-    <string name="traffic_title">Traffic indicators</string>
-    <string name="traffic_title_summary">Customize network traffic indicators</string>
-    <string name="network_traffic_title">Network traffic</string>
-    <string name="network_traffic_type">Select net activity type</string>
-    <string name="show_network_traffic_up">Uplink</string>
-    <string name="show_network_traffic_down">Downlink</string>
-    <string name="show_network_traffic_all">Uplink and Downlink</string>
-    <string name="network_traffic_state_title">Show net activity in statusbar</string>
-    <string name="network_traffic_autohide_threshold_title">Net activity autohide threshold (KB/s)</string>
+    <string name="traffic_title">Tốc độ mạng</string>
+    <string name="traffic_title_summary">Tùy chỉnh lưu lượng mạng</string>
+    <string name="network_traffic_title">Tốc độ mạng</string>
+    <string name="network_traffic_type">Kiểu mạng</string>
+    <string name="show_network_traffic_up">Tải lên</string>
+    <string name="show_network_traffic_down">Tải xuống</string>
+    <string name="show_network_traffic_all">Tải lên và Tải xuống</string>
+    <string name="network_traffic_state_title">Tốc độ mạng</string>
+    <string name="network_traffic_autohide_threshold_title">Tự động ẩn mạng (KB/s)</string>
     <!-- Custom seekbar -->
-    <string name="custom_seekbar_value">Value: <xliff:g id="v">%s</xliff:g></string>
+    <string name="custom_seekbar_value">Cuộc gọi nhỡ: <xliff:g id="value">%s</xliff:g></string>
     <string name="custom_seekbar_default_value">Default</string>
     <string name="custom_seekbar_default_value_to_set">Default value: <xliff:g id="v">%s</xliff:g>\nLong press to set</string>
     <string name="custom_seekbar_default_value_is_set">Default value is set</string>
