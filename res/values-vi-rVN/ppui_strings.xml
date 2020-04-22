@@ -31,27 +31,27 @@
     <string name="network_traffic_autohide_threshold_title">Tự động ẩn mạng (KB/s)</string>
     <!-- Custom seekbar -->
     <string name="custom_seekbar_value">Cuộc gọi nhỡ: <xliff:g id="value">%s</xliff:g></string>
-    <string name="custom_seekbar_default_value">Default</string>
-    <string name="custom_seekbar_default_value_to_set">Default value: <xliff:g id="v">%s</xliff:g>\nLong press to set</string>
-    <string name="custom_seekbar_default_value_is_set">Default value is set</string>
+    <string name="custom_seekbar_default_value">Mặc Định</string>
+    <string name="custom_seekbar_default_value_to_set">Mặc định giá trị: <xliff:g id="v">%s</xliff:g>\nLong tap để thiết lập</string>
+    <string name="custom_seekbar_default_value_is_set">Giá trị mặc định đã được đặt</string>
     <!-- QS blur -->
-    <string name="blur_quicksettings">Blur behind quick settings</string>
-    <string name="blur_quicksettings_subtitle">Blurs background behind QS</string>
+    <string name="blur_quicksettings">Làm mờ phía sau cài đặt nhanh (beta)</string>
+    <string name="blur_quicksettings_subtitle">Làm mờ nền phía sau thanh xem nhanh</string>
     <!-- Power menu -->
-    <string name="hardware_keys_power_key_title">Power button</string>
-    <string name="power_menu_title">Power menu</string>
-    <string name="power_menu_subtitle">Customize power menu</string>
-    <string name="power_menu_screenshot_title">Screenshot</string>
-    <string name="power_menu_airplane_title">Airplane mode</string>
-    <string name="power_menu_lockdown_title">Lockdown</string>
+    <string name="hardware_keys_power_key_title">Phím nguồn</string>
+    <string name="power_menu_title">Menu nguồn</string>
+    <string name="power_menu_subtitle">Tùy biến menu nguồn</string>
+    <string name="power_menu_screenshot_title">Chụp ảnh màn hình</string>
+    <string name="power_menu_airplane_title">Chế độ Máy bay</string>
+    <string name="power_menu_lockdown_title">Khoá máy</string>
     <!-- Advanced restart options -->
-    <string name="advanced_reboot_title">Advanced restart</string>
-    <string name="advanced_reboot_summary">When unlocked, include options in the power menu for restarting into recovery or bootloader</string>
+    <string name="advanced_reboot_title">Khởi động lại nâng cao</string>
+    <string name="advanced_reboot_summary">Khi mở khóa, các tùy chọn trong trình đơn nguồn để khởi động vào phục hồi hoặc trình nạp khởi động</string>
     <!-- Show VoLTE icon on statusbar -->
-    <string name="volte_icon_title">VoLTE icon</string>
-    <string name="volte_icon_summary">Display VoLTE icon</string>
-    <string name="volte_icon_style_title">Select VoLTE Icon</string>
-    <string name="volte_icon_vo">Vo Only Icon</string>
+    <string name="volte_icon_title">Biểu tượng VoLTE</string>
+    <string name="volte_icon_summary">Hiện biểu tượng VoLTE</string>
+    <string name="volte_icon_style_title">Chọn biểu tượng VoLTE</string>
+    <string name="volte_icon_vo">Biểu tượng Vo</string>
     <string name="volte_icon_volte">VoLTE Icon</string>
     <string name="volte_icon_oos">VoLTE OOS Icon</string>
     <string name="volte_icon_hd">HD Icon</string>
