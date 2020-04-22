@@ -18,7 +18,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Title -->
-    <string name="config_center_title">Trung tâm tùy chỉnh</string>
+    <string name="config_center_title">Tùy biến Pixelizer</string>
     <!-- Network traffic -->
     <string name="traffic_title">Tốc độ mạng</string>
     <string name="traffic_title_summary">Tùy chỉnh lưu lượng mạng</string>
@@ -27,12 +27,12 @@
     <string name="show_network_traffic_up">Tải lên</string>
     <string name="show_network_traffic_down">Tải xuống</string>
     <string name="show_network_traffic_all">Tải lên và Tải xuống</string>
-    <string name="network_traffic_state_title">Tốc độ mạng</string>
+    <string name="network_traffic_state_title">Hiển thị mạng trên thanh trạng thái</string>
     <string name="network_traffic_autohide_threshold_title">Tự động ẩn mạng (KB/s)</string>
     <!-- Custom seekbar -->
-    <string name="custom_seekbar_value">Cuộc gọi nhỡ: <xliff:g id="value">%s</xliff:g></string>
+    <string name="custom_seekbar_value">Giá trị: <xliff:g id="v">%s</xliff:g></string>
     <string name="custom_seekbar_default_value">Mặc Định</string>
-    <string name="custom_seekbar_default_value_to_set">Mặc định giá trị: <xliff:g id="v">%s</xliff:g>\nLong tap để thiết lập</string>
+    <string name="custom_seekbar_default_value_to_set">Giá trị mặc định: <xliff:g id="v">%s</xliff:g>\nĐè lâu để thiết lập</string>
     <string name="custom_seekbar_default_value_is_set">Giá trị mặc định đã được đặt</string>
     <!-- QS blur -->
     <string name="blur_quicksettings">Làm mờ phía sau cài đặt nhanh (beta)</string>
@@ -52,48 +52,48 @@
     <string name="volte_icon_summary">Hiện biểu tượng VoLTE</string>
     <string name="volte_icon_style_title">Chọn biểu tượng VoLTE</string>
     <string name="volte_icon_vo">Biểu tượng Vo</string>
-    <string name="volte_icon_volte">VoLTE Icon</string>
-    <string name="volte_icon_oos">VoLTE OOS Icon</string>
-    <string name="volte_icon_hd">HD Icon</string>
+    <string name="volte_icon_volte">Biểu tượng VoLTE</string>
+    <string name="volte_icon_oos">Biểu tượng VoLTE OOS</string>
+    <string name="volte_icon_hd">Biểu tượng HD</string>
     <!-- Titles for new preference categories -->
-    <string name="statusbar_qs_keys_title">Status bar/QS</string>
-    <string name="volte_keys_cg_title">VoLTE Icon</string>
-    <string name="navbar_keys_cg_title">Navigation Bar</string>
-    <string name="dt_keys_cg_title">Double Tap</string>
+    <string name="statusbar_qs_keys_title">Thanh trạng thái</string>
+    <string name="volte_keys_cg_title">Biểu tượng VoLTE</string>
+    <string name="navbar_keys_cg_title">Thanh điều hướng</string>
+    <string name="dt_keys_cg_title">Chạm đúp</string>
     <!-- Show statusbar on lockscreen -->
-    <string name="lockscreen_show_status_bar_title">Statusbar</string>
-    <string name="lockscreen_show_status_bar_summary">Show statusbar on the lockscreen</string>
+    <string name="lockscreen_show_status_bar_title">Thanh trạng thái</string>
+    <string name="lockscreen_show_status_bar_summary">Hiện thanh trạng thái trên màn hình khóa</string>
     <!-- Navigation Bar -->
-    <string name="navigation_bar_invert_layout_title">Invert layout</string>
+    <string name="navigation_bar_invert_layout_title">Đảo ngược bố cục</string>
     <!-- Statusbar Clock -->
-    <string name="clock_style_category_title">Clock Settings</string>
-    <string name="clock_style_category_summary">Statusbar Clock Tuner</string>
-    <string name="status_bar_clock_title">Clock settings</string>
-    <string name="status_bar_clock_show">Show clock and date</string>
-    <string name="status_bar_clock_style_title">Clock style</string>
-    <string name="status_bar_clock_style_right">Right</string>
-    <string name="status_bar_clock_style_center">Center</string>
-    <string name="status_bar_clock_style_left">Left</string>
-    <string name="status_bar_am_pm_title">AM/PM style</string>
-    <string name="status_bar_am_pm_info">24-hour clock is enabled</string>
-    <string name="status_bar_am_pm_normal">Normal</string>
-    <string name="status_bar_am_pm_small">Small</string>
-    <string name="status_bar_am_pm_hidden">Hidden (default)</string>
-    <string name="clock_seconds_display">Show seconds</string>
-    <string name="clock_date_display">Date</string>
-    <string name="clock_date_display_summary">Display custom date before the clock</string>
-    <string name="clock_date_display_none">Don\'t show</string>
-    <string name="clock_date_display_small">Small font size</string>
-    <string name="clock_date_display_normal">Normal font size</string>
-    <string name="clock_date_style">Date style</string>
-    <string name="clock_date_style_normal">Normal</string>
-    <string name="clock_date_style_lowercase">Lowercase</string>
-    <string name="clock_date_style_uppercase">Uppercase</string>
-    <string name="clock_date_format_custom">Custom java format</string>
-    <string name="clock_date_format">Date format</string>
-    <string name="clock_date_string_edittext_title">Must be in DateFormat eg. MM/dd/yy</string>
-    <string name="clock_date_string_edittext_summary">Enter string</string>
+    <string name="clock_style_category_title">Thiết lập đồng hồ</string>
+    <string name="clock_style_category_summary">Bộ điều chỉnh đồng hồ thanh trạng thái</string>
+    <string name="status_bar_clock_title">Cài đặt đồng hồ</string>
+    <string name="status_bar_clock_show">Hiển thị đồng hồ và ngày</string>
+    <string name="status_bar_clock_style_title">Kiểu đồng hồ</string>
+    <string name="status_bar_clock_style_right">Bên phải</string>
+    <string name="status_bar_clock_style_center">Phải</string>
+    <string name="status_bar_clock_style_left">Bên trái</string>
+    <string name="status_bar_am_pm_title">Kiểu Sáng/Chiều</string>
+    <string name="status_bar_am_pm_info">Đồng hồ dạng 24-giờ được bật</string>
+    <string name="status_bar_am_pm_normal">Bình thường</string>
+    <string name="status_bar_am_pm_small">Nhỏ</string>
+    <string name="status_bar_am_pm_hidden">Ẩn (mặc định)</string>
+    <string name="clock_seconds_display">Hiển thị giây</string>
+    <string name="clock_date_display">Ngày</string>
+    <string name="clock_date_display_summary">Hiển thị ngày tùy chỉnh trước đồng hồ</string>
+    <string name="clock_date_display_none">Không hiển thị</string>
+    <string name="clock_date_display_small">Cỡ chữ nhỏ</string>
+    <string name="clock_date_display_normal">Cỡ chữ bình thường</string>
+    <string name="clock_date_style">Kiểu ngày</string>
+    <string name="clock_date_style_normal">Bình thường</string>
+    <string name="clock_date_style_lowercase">Chữ thường</string>
+    <string name="clock_date_style_uppercase">Chữ in hoa</string>
+    <string name="clock_date_format_custom">Định dạng java tùy chỉnh</string>
+    <string name="clock_date_format">Định dạng ngày tháng</string>
+    <string name="clock_date_string_edittext_title">Phải thuộc định dạng ngày, ví dụ: dd/mm/yy</string>
+    <string name="clock_date_string_edittext_summary">Nhập Chuỗi</string>
     <!-- Double Tap gestures -->
-    <string name="double_tap_sleep_lockscreen_title">Double tap to sleep</string>
-    <string name="double_tap_sleep_lockscreen_summary">Double tap anywhere on the lockscreen to put phone to sleep</string>
+    <string name="double_tap_sleep_lockscreen_title">Chạm hai lần để tắt màn hình</string>
+    <string name="double_tap_sleep_lockscreen_summary">Chạm đúp ở màn hình khoá để ngủ</string>
 </resources>
