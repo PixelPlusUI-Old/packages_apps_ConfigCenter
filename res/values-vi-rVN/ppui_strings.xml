@@ -46,7 +46,7 @@
     <string name="power_menu_lockdown_title">Khoá máy</string>
     <!-- Advanced restart options -->
     <string name="advanced_reboot_title">Khởi động lại nâng cao</string>
-    <string name="advanced_reboot_summary">Khi mở khóa, các tùy chọn trong trình đơn nguồn để khởi động vào phục hồi hoặc trình nạp khởi động</string>
+    <string name="advanced_reboot_summary">Khi mở khóa, các tùy chọn trong trình đơn nguồn để vào recovery hoặc bootloader</string>
     <!-- Show VoLTE icon on statusbar -->
     <string name="volte_icon_title">Biểu tượng VoLTE</string>
     <string name="volte_icon_summary">Hiện biểu tượng VoLTE</string>
@@ -94,6 +94,6 @@
     <string name="clock_date_string_edittext_title">Phải thuộc định dạng ngày, ví dụ: dd/mm/yy</string>
     <string name="clock_date_string_edittext_summary">Nhập Chuỗi</string>
     <!-- Double Tap gestures -->
-    <string name="double_tap_sleep_lockscreen_title">Chạm hai lần để tắt màn hình</string>
-    <string name="double_tap_sleep_lockscreen_summary">Chạm đúp ở màn hình khoá để ngủ</string>
+    <string name="double_tap_sleep_lockscreen_title">Chạm 2 lần để ngủ</string>
+    <string name="double_tap_sleep_lockscreen_summary">Chạm hai lần ở màn hình khoá để ngủ</string>
 </resources>
