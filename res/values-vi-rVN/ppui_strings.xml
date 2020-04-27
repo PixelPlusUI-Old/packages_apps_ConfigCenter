@@ -42,6 +42,7 @@
     <string name="power_menu_title">Menu nguồn</string>
     <string name="power_menu_subtitle">Tùy biến menu nguồn</string>
     <string name="power_menu_screenshot_title">Chụp ảnh màn hình</string>
+    <string name="power_menu_screenrecord_title">Screenrecord</string>
     <string name="power_menu_airplane_title">Chế độ Máy bay</string>
     <string name="power_menu_lockdown_title">Khoá máy</string>
     <!-- Advanced restart options -->
