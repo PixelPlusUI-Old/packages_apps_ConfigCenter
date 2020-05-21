@@ -21,17 +21,6 @@
     <!-- App Title -->
     <string name="config_center_title">Le Pixelizer</string>
 
-    <!-- Network traffic -->
-    <string name="traffic_title">Indicateurs de trafic</string>
-    <string name="traffic_title_summary">"Personnaliser l'indicateurs de trafic réseau"</string>
-    <string name="network_traffic_title">Trafic réseau</string>
-    <string name="network_traffic_type">"Sélectionnez le type d'activité"</string>
-    <string name="show_network_traffic_up">Liaison montante</string>
-    <string name="show_network_traffic_down">Liaison descendante</string>
-    <string name="show_network_traffic_all">Montante et Descendante</string>
-    <string name="network_traffic_state_title">"Afficher l'activité dans la barre d'état"</string>
-    <string name="network_traffic_autohide_threshold_title">"Seuil de masquage automatique de l'activité (Ko/s)"</string>
-	
     <!-- Custom seekbar -->
     <string name="custom_seekbar_default_value">Par défaut</string>
     <string name="custom_seekbar_default_value_to_set">Valeur par défaut: <xliff:g id="v">%s</xliff:g>\nAppui long pour régler</string>

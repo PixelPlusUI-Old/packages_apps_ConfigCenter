@@ -21,17 +21,6 @@
     <!-- App Title -->
     <string name="config_center_title">Пікселайзер</string>
 
-    <!-- Network traffic -->
-    <string name="traffic_title">Індикатор трафіку</string>
-    <string name="traffic_title_summary">Налаштування індикатора трафіку</string>
-    <string name="network_traffic_title">Мережевий трафік</string>
-    <string name="network_traffic_type">Виберіть тип мережевої активності</string>
-    <string name="show_network_traffic_up"></string>
-    <string name="show_network_traffic_down"></string>
-    <string name="show_network_traffic_all"></string>
-    <string name="network_traffic_state_title">Показати мережеву активність у статусбарі</string>
-    <string name="network_traffic_autohide_threshold_title">Зникання мережевої активності (KB/s)</string>
-	
     <!-- Custom seekbar -->
     <string name="custom_seekbar_value">Число: <xliff:g id="v">%s</xliff:g></string>
     <string name="custom_seekbar_default_value">За замовчуванням</string>
