@@ -25,12 +25,12 @@
     <string name="custom_seekbar_default_value_to_set">기본값: <xliff:g id="v">%s</xliff:g>\n길게 눌러서 설정</string>
     <string name="custom_seekbar_default_value_is_set">기본값으로 설정 됨</string>
     <!-- QS blur -->
-    <string name="blur_quicksettings">Blur behind quick settings</string>
-    <string name="blur_quicksettings_subtitle">Blurs background behind QS</string>
-    <string name="qs_blur_alpha_title">Blur alpha</string>
-    <string name="qs_blur_alpha_summary">Sets the blur transparency</string>
-    <string name="qs_blur_intensity_title">Blur intensity</string>
-    <string name="qs_blur_intensity_summary">Sets the blur intensity/radius</string>
+    <string name="blur_quicksettings">빠른 설정 배경 블러</string>
+    <string name="blur_quicksettings_subtitle">빠른 설정에 블러 효과 적용</string>
+    <string name="qs_blur_alpha_title">블러 효과 조정</string>
+    <string name="qs_blur_alpha_summary">블러 투명도 조절</string>
+    <string name="qs_blur_intensity_title">블러 강도</string>
+    <string name="qs_blur_intensity_summary">블러 강도 / 반경 설정</string>
     <string name="unit_percent">\u0025</string>
     <!-- Power menu -->
     <string name="hardware_keys_power_key_title">Power button</string>
