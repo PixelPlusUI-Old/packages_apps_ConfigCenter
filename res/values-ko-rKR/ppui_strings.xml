@@ -18,7 +18,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Title -->
-    <string name="config_center_title">유용한 기능들</string>
+    <string name="config_center_title">유용한 기능</string>
     <!-- Custom seekbar -->
     <string name="custom_seekbar_value">값: <xliff:g id="v">%s</xliff:g></string>
     <string name="custom_seekbar_default_value">기본값</string>
@@ -35,14 +35,14 @@
     <!-- Power menu -->
     <string name="hardware_keys_power_key_title">전원 버튼</string>
     <string name="power_menu_title">전원 메뉴</string>
-    <string name="power_menu_subtitle">전원 메뉴 커스터마이징</string>
+    <string name="power_menu_subtitle">전원 메뉴 사용자지정</string>
     <string name="power_menu_screenshot_title">화면 캡처</string>
     <string name="power_menu_screenrecord_title">화면 녹화</string>
     <string name="power_menu_airplane_title">비행기 모드</string>
-    <string name="power_menu_lockdown_title">절전</string>
+    <string name="power_menu_lockdown_title">절전 모드</string>
     <!-- Advanced restart options -->
-    <string name="advanced_reboot_title">고급 재시작</string>
-    <string name="advanced_reboot_summary">잠금 해제되어 있을 때, 전원 메뉴에 리커버리 및 부트로더로 다시 시작하는 옵션 추가</string>
+    <string name="advanced_reboot_title">고급 전원 메뉴</string>
+    <string name="advanced_reboot_summary">잠금이 해제되어 있을 때, 전원 메뉴에 리커버리 및 부트로더로 다시 시작하는 옵션 추가</string>
     <!-- Show VoLTE icon on statusbar -->
     <string name="volte_icon_title">VoLTE 아이콘</string>
     <string name="volte_icon_summary">VoLTE 아이콘 표시</string>
@@ -69,10 +69,10 @@
     <string name="status_bar_clock_show">시계와 날짜 표시</string>
     <string name="status_bar_clock_style_title">시계 스타일</string>
     <string name="status_bar_clock_style_right">오른쪽</string>
-    <string name="status_bar_clock_style_center">중간</string>
+    <string name="status_bar_clock_style_center">중앙</string>
     <string name="status_bar_clock_style_left">왼쪽</string>
     <string name="status_bar_am_pm_title">오전/오후 스타일</string>
-    <string name="status_bar_am_pm_info">24시간 표시 활성화</string>
+    <string name="status_bar_am_pm_info">24시간 표시 활성화됨</string>
     <string name="status_bar_am_pm_normal">보통</string>
     <string name="status_bar_am_pm_small">작게</string>
     <string name="status_bar_am_pm_hidden">숨김 (기본)</string>
@@ -92,9 +92,9 @@
     <string name="clock_date_string_edittext_summary">문자열 입력</string>
     <!-- Double Tap gestures -->
     <string name="double_tap_sleep_lockscreen_title">잠금 화면에서 두번 두드려 화면 끄기</string>
-    <string name="double_tap_sleep_lockscreen_summary">잠금 화면의 어느 부분이든 두번 두드려 기기의 화면을 끕니다.</string>
-    <string name="double_tap_sleep_gesture_title">상태 표시줄을 두 번 두드려 화면 끄기</string>
-    <string name="double_tap_sleep_gesture_summary">상태 표시줄을 두 번 두드려 화면을 끕니다</string>
+    <string name="double_tap_sleep_lockscreen_summary">잠금 화면에서 두번 두드려 기기의 화면을 끄기</string>
+    <string name="double_tap_sleep_gesture_title">상태 표시줄 두 번 두드려 화면 끄기</string>
+    <string name="double_tap_sleep_gesture_summary">상태 표시줄 두 번 두드려 화면을 끄기</string>
     <!-- Incall vibrate options -->
     <string name="incall_vibration_category">통화 중 진동 옵션</string>
     <string name="incall_vibrate_connect_title">연결 시 진동</string>
@@ -132,7 +132,7 @@
     <string name="gaming_mode_hardware_keys_title">잠금 버튼</string>
     <string name="gaming_mode_hardware_keys_summary">게임 모드가 켜져있을 때 하드웨어 버튼 비활성화</string>
     <string name="gaming_mode_brightness_title">자동 밝기 비활성화</string>
-    <string name="gaming_mode_brightness_summary">게이밍 모드가 켜져있을때 화면 밝기 고정</string>
+    <string name="gaming_mode_brightness_summary">게이밍 모드가 켜져 있을때 화면 밝기 고정</string>
     <string name="gaming_mode_ringer_title">게임 모드 벨소리</string>
     <string name="gaming_mode_ringer_off_title">변경 안함</string>
     <string name="gaming_mode_ringer_vibrate_title">진동</string>
