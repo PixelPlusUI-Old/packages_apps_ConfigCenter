@@ -18,30 +18,30 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Title -->
-    <string name="config_center_title">The Pixelizer</string>
+    <string name="config_center_title">O Pixelizador</string>
     <!-- Custom seekbar -->
-    <string name="custom_seekbar_value">Value: <xliff:g id="v">%s</xliff:g></string>
-    <string name="custom_seekbar_default_value">Default</string>
-    <string name="custom_seekbar_default_value_to_set">Default value: <xliff:g id="v">%s</xliff:g>\nLong press to set</string>
-    <string name="custom_seekbar_default_value_is_set">Default value is set</string>
+    <string name="custom_seekbar_value">Valor: <xliff:g id="v">%s</xliff:g></string>
+    <string name="custom_seekbar_default_value">Padrão</string>
+    <string name="custom_seekbar_default_value_to_set">Valor padrão: <xliff:g id ="v">%s</xliff:g>\nToque longo para definir</string>
+    <string name="custom_seekbar_default_value_is_set">Valor padrão definido</string>
     <!-- QS blur -->
-    <string name="blur_quicksettings">Blur behind quick settings</string>
-    <string name="blur_quicksettings_subtitle">Blurs background behind QS</string>
-    <string name="qs_blur_alpha_title">Blur alpha</string>
-    <string name="qs_blur_alpha_summary">Sets the blur transparency</string>
-    <string name="qs_blur_intensity_title">Blur intensity</string>
-    <string name="qs_blur_intensity_summary">Sets the blur intensity/radius</string>
+    <string name="blur_quicksettings">Desfoque no fundo das configurações rápidas</string>
+    <string name="blur_quicksettings_subtitle">Desfocar o fundo por trás das configurações rápidas</string>
+    <string name="qs_blur_alpha_title">Desfoque alfa</string>
+    <string name="qs_blur_alpha_summary">Define a transparência do desfoque</string>
+    <string name="qs_blur_intensity_title">Intensidade do desfoque</string>
+    <string name="qs_blur_intensity_summary">Define a intensidade/raio do desfoque</string>
     <string name="unit_percent">\u0025</string>
     <!-- Power menu -->
-    <string name="hardware_keys_power_key_title">Power button</string>
-    <string name="power_menu_title">Power menu</string>
-    <string name="power_menu_subtitle">Customize power menu</string>
-    <string name="power_menu_screenshot_title">Screenshot</string>
-    <string name="power_menu_screenrecord_title">Screenrecord</string>
-    <string name="power_menu_airplane_title">Airplane mode</string>
-    <string name="power_menu_lockdown_title">Lockdown</string>
+    <string name="hardware_keys_power_key_title">Botão de energia</string>
+    <string name="power_menu_title">Menu de energia</string>
+    <string name="power_menu_subtitle">Personalizar o menu de energia</string>
+    <string name="power_menu_screenshot_title">Captura de tela</string>
+    <string name="power_menu_screenrecord_title">Gravador de tela</string>
+    <string name="power_menu_airplane_title">Modo avião</string>
+    <string name="power_menu_lockdown_title">Bloqueio total</string>
     <!-- Advanced restart options -->
-    <string name="advanced_reboot_title">Advanced restart</string>
+    <string name="advanced_reboot_title">Reinicialização avançada</string>
     <string name="advanced_reboot_summary">When unlocked, include options in the power menu for restarting into recovery or bootloader</string>
     <!-- Show VoLTE icon on statusbar -->
     <string name="volte_icon_title">VoLTE icon</string>
