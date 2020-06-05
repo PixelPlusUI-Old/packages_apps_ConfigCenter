@@ -181,6 +181,6 @@
     <string name="heads_up_snooze_15min">15 분</string>
     <string name="heads_up_snooze_20min">20 분</string>
     <!-- Heads up options -->
-    <string name="less_boring_heads_up_title">Less boring heads up</string>
+    <string name="less_boring_heads_up_title">덜 지루한 헤드업</string>
     <string name="less_boring_heads_up_summary">전화나 메시지, 알람앱 에서만 헤드업 알림 사용</string>
 </resources>
