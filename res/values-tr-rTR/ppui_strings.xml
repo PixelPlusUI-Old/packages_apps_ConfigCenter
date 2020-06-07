@@ -136,28 +136,28 @@
     <string name="gaming_mode_ringer_title">Oyun modunda zil sesi</string>
     <string name="gaming_mode_ringer_off_title">Değiştirme</string>
     <string name="gaming_mode_ringer_vibrate_title">Titreşim</string>
-    <string name="gaming_mode_ringer_dnd_title">Do Not Disturb</string>
-    <string name="gaming_mode_ringer_silent_title">Silent</string>
-    <string name="gaming_mode_notifications_title">Gaming mode indication</string>
-    <string name="gaming_mode_notifications_off_title">Disabled</string>
-    <string name="gaming_mode_notifications_notif_title">Show notification</string>
-    <string name="gaming_mode_notifications_toast_title">Show toasts</string>
-    <string name="gaming_mode_notifications_all_title">Show toasts and notification</string>
-    <string name="gaming_mode_dynamic_title">Dynamic mode</string>
-    <string name="gaming_mode_dynamic_summary">Try detecting and adding gaming apps automatically</string>
+    <string name="gaming_mode_ringer_dnd_title">Rahatsız etmeyin</string>
+    <string name="gaming_mode_ringer_silent_title">Sessiz</string>
+    <string name="gaming_mode_notifications_title">Oyun modu göstergesi</string>
+    <string name="gaming_mode_notifications_off_title">Kapalı</string>
+    <string name="gaming_mode_notifications_notif_title">Bildirim göster</string>
+    <string name="gaming_mode_notifications_toast_title">Uyarı mesajlarını göster</string>
+    <string name="gaming_mode_notifications_all_title">Uyarı mesajlarını ve bildirimi göster</string>
+    <string name="gaming_mode_dynamic_title">Dinamik mod</string>
+    <string name="gaming_mode_dynamic_summary">Oyun uygulamalarını otomatik olarak algılamayı ve eklemeyi dene</string>
     <!-- PackageListAdapter Strings -->
-    <string name="profile_choose_app">Choose app</string>
-    <string name="dialog_delete_title">Delete</string>
-    <string name="dialog_delete_message">Remove selected item?</string>
+    <string name="profile_choose_app">Uygulama Seç</string>
+    <string name="dialog_delete_title">Sil</string>
+    <string name="dialog_delete_message">Seçili öge silinsin mi?</string>
     <!-- Notifications -->
-    <string name="notification_category">Notification</string>
-    <string name="notification_category_summary">Customize your Notification Settings</string>
+    <string name="notification_category">Bildirim</string>
+    <string name="notification_category_summary">Bildirim ayarlarını kişiselleştir</string>
     <!-- Heads up -->
-    <string name="notification_stat">Statusbar</string>
-    <string name="heads_up_notifications">Heads Up</string>
-    <string name="heads_up_notifications_summary">Pop up statusbar notifications</string>
-    <string name="add_heads_up_package">Add app</string>
-    <string name="heads_up_stoplist_title">Stoplist</string>
+    <string name="notification_stat">Durum Çubuğu</string>
+    <string name="heads_up_notifications">Heads Up Ekranı</string>
+    <string name="heads_up_notifications_summary">Açılır durum çubuğu bildirimleri</string>
+    <string name="add_heads_up_package">Uygulama Ekle</string>
+    <string name="heads_up_stoplist_title">Durdurma listesi</string>
     <string name="add_heads_up_stoplist_summary">Disable heads up in these applications</string>
     <string name="heads_up_blacklist_title">Blacklist</string>
     <string name="add_heads_up_blacklist_summary">Disable heads up for these applications</string>
