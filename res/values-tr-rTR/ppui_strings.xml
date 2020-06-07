@@ -93,7 +93,7 @@
     <!-- Double Tap gestures -->
     <string name="double_tap_sleep_lockscreen_title">Kilit ekranında çift dokunuşla uyutma</string>
     <string name="double_tap_sleep_lockscreen_summary">Cihazı uyku moduna almak için kilit ekranında herhangi bir yere iki kez dokunun</string>
-    <string name="double_tap_sleep_gesture_title">Durum çubuğunda uyumak için iki kez dokunun</string>
+    <string name="double_tap_sleep_gesture_title">Cihazı uyutmak için durum çubuğuna iki kez dokunun</string>
     <string name="double_tap_sleep_gesture_summary">Cihazı uyutmak için durum çubuğuna iki kez dokun</string>
     <!-- Incall vibrate options -->
     <string name="incall_vibration_category">Çağrı titreşimi</string>
@@ -158,9 +158,9 @@
     <string name="heads_up_notifications_summary">Açılır durum çubuğu bildirimleri</string>
     <string name="add_heads_up_package">Uygulama Ekle</string>
     <string name="heads_up_stoplist_title">Durdurma listesi</string>
-    <string name="add_heads_up_stoplist_summary">Bu uygulamalarda bildirim pencerelerini devre dışı bırak</string>
+    <string name="add_heads_up_stoplist_summary">Seçili uygulamalar için bildirimler pencerelerini kapat</string>
     <string name="heads_up_blacklist_title">Kara liste</string>
-    <string name="add_heads_up_blacklist_summary">Seçili uygulamalar için bildirim pencerelerini devre dışı bırak</string>
+    <string name="add_heads_up_blacklist_summary">Seçili uygulamalar için bildirimler pencerelerini kapat</string>
     <!-- Heads up timeout -->
     <string name="heads_up_time_out_title">Zaman aşımı</string>
     <string name="heads_up_time_out_summary">Bildirm pencereleri <xliff:g id="number">%d</xliff:g> saniye boyunca gösterilir</string>
@@ -173,7 +173,7 @@
     <!-- Heads up snooze -->
     <string name="heads_up_snooze_title">Erteleme zamanlayıcısı</string>
     <string name="heads_up_snooze_summary_one_minute">Bildirim pencereleri kaydırılarak 1 dakika boyunca uygulamadan gelecek olan bildirimler ertelenir</string>
-    <string name="heads_up_snooze_summary">Swiping up on peeking notifications will snooze heads up from that application for <xliff:g id="number">%d</xliff:g> minutes</string>
+    <string name="heads_up_snooze_summary">Bildirim pencereleri kaydırılarak <xliff:g id="number">%d</xliff:g> dakika boyunca uygulamalardan gelecek olan bildirimler ertelenir</string>
     <string name="heads_up_snooze_disabled_summary">Erteleyiciyi devredışı</string>
     <string name="heads_up_snooze_1min">1 dakika</string>
     <string name="heads_up_snooze_5min">5 dakika</string>
@@ -181,6 +181,6 @@
     <string name="heads_up_snooze_15min">15 dakika</string>
     <string name="heads_up_snooze_20min">20 dakika</string>
     <!-- Heads up options -->
-    <string name="less_boring_heads_up_title">Daha az sıkıcı bildirim penceresi</string>
+    <string name="less_boring_heads_up_title">Daha az bildirim penceresi</string>
     <string name="less_boring_heads_up_summary">Sadece telefon, mesajlaşma ve alarm uygulamaları için bildirim pencerelerini göster</string>
 </resources>
