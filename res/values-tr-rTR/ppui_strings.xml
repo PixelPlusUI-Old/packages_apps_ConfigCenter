@@ -154,13 +154,13 @@
     <string name="notification_category_summary">Bildirim ayarlarını kişiselleştir</string>
     <!-- Heads up -->
     <string name="notification_stat">Durum Çubuğu</string>
-    <string name="heads_up_notifications">Heads Up Ekranı</string>
+    <string name="heads_up_notifications">Heads Up</string>
     <string name="heads_up_notifications_summary">Açılır durum çubuğu bildirimleri</string>
     <string name="add_heads_up_package">Uygulama Ekle</string>
     <string name="heads_up_stoplist_title">Durdurma listesi</string>
-    <string name="add_heads_up_stoplist_summary">Bu uygulamalarda heads up bildirimleri devre dışı</string>
+    <string name="add_heads_up_stoplist_summary">Bu uygulamalarda heads up devre dışı</string>
     <string name="heads_up_blacklist_title">Kara liste</string>
-    <string name="add_heads_up_blacklist_summary">Bu uygulamalar için heads up bildirimleri devre dışı</string>
+    <string name="add_heads_up_blacklist_summary">Bu uygulamalar için heads up devre dışı</string>
     <!-- Heads up timeout -->
     <string name="heads_up_time_out_title">Zaman aşımı</string>
     <string name="heads_up_time_out_summary">Gözatma bildirimleri <xliff:g id="number">%d</xliff:g> saniye boyunca gösterilir</string>
