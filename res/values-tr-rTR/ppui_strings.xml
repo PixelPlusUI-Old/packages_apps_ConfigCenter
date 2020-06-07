@@ -18,65 +18,65 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Title -->
-    <string name="config_center_title">The Pixelizer</string>
+    <string name="config_center_title">Pikselleştirici</string>
     <!-- Custom seekbar -->
-    <string name="custom_seekbar_value">Value: <xliff:g id="v">%s</xliff:g></string>
-    <string name="custom_seekbar_default_value">Default</string>
-    <string name="custom_seekbar_default_value_to_set">Default value: <xliff:g id="v">%s</xliff:g>\nLong press to set</string>
-    <string name="custom_seekbar_default_value_is_set">Default value is set</string>
+    <string name="custom_seekbar_value">Değer: <xliff:g id="v">%s</xliff:g></string>
+    <string name="custom_seekbar_default_value">Varsayılan</string>
+    <string name="custom_seekbar_default_value_to_set">Varsayılan değer: <xliff:g id="v">%s</xliff:g>\nAyarlamak için uzun dokunun</string>
+    <string name="custom_seekbar_default_value_is_set">Varsayılan değer ayarlandı</string>
     <!-- QS blur -->
-    <string name="blur_quicksettings">Blur behind quick settings</string>
-    <string name="blur_quicksettings_subtitle">Blurs background behind QS</string>
-    <string name="qs_blur_alpha_title">Blur alpha</string>
-    <string name="qs_blur_alpha_summary">Sets the blur transparency</string>
-    <string name="qs_blur_intensity_title">Blur intensity</string>
-    <string name="qs_blur_intensity_summary">Sets the blur intensity/radius</string>
+    <string name="blur_quicksettings">Hızlı ayarların arkasını bulanıklaştır</string>
+    <string name="blur_quicksettings_subtitle">HA arkasındaki arka planı bulanıklaştırır</string>
+    <string name="qs_blur_alpha_title">Alfa bulanıklık</string>
+    <string name="qs_blur_alpha_summary">Bulanıklık saydamlığını ayarla</string>
+    <string name="qs_blur_intensity_title">Bulanıklık yoğunluğu</string>
+    <string name="qs_blur_intensity_summary">Bulanıklık yoğunluğunu ve yarıçapını ayarla</string>
     <string name="unit_percent">\u0025</string>
     <!-- Power menu -->
-    <string name="hardware_keys_power_key_title">Power button</string>
-    <string name="power_menu_title">Power menu</string>
-    <string name="power_menu_subtitle">Customize power menu</string>
-    <string name="power_menu_screenshot_title">Screenshot</string>
-    <string name="power_menu_screenrecord_title">Screenrecord</string>
-    <string name="power_menu_airplane_title">Airplane mode</string>
-    <string name="power_menu_lockdown_title">Lockdown</string>
+    <string name="hardware_keys_power_key_title">Güç tuşu</string>
+    <string name="power_menu_title">Güç Menüsü</string>
+    <string name="power_menu_subtitle">Güç menüsünü özelleştir</string>
+    <string name="power_menu_screenshot_title">Ekran görüntüsü</string>
+    <string name="power_menu_screenrecord_title">Ekran kaydı</string>
+    <string name="power_menu_airplane_title">Uçak modu</string>
+    <string name="power_menu_lockdown_title">Kilitleme</string>
     <!-- Advanced restart options -->
-    <string name="advanced_reboot_title">Advanced restart</string>
-    <string name="advanced_reboot_summary">When unlocked, include options in the power menu for restarting into recovery or bootloader</string>
+    <string name="advanced_reboot_title">Gelişmiş yeniden başlatma</string>
+    <string name="advanced_reboot_summary">Kilit açıldığında kurtarma veya önyükleme modunda yeniden başlatmak için güç menüsüne seçenekler ekler</string>
     <!-- Show VoLTE icon on statusbar -->
-    <string name="volte_icon_title">VoLTE icon</string>
-    <string name="volte_icon_summary">Display VoLTE icon</string>
-    <string name="volte_icon_style_title">Select VoLTE Icon</string>
-    <string name="volte_icon_vo">Vo Only Icon</string>
-    <string name="volte_icon_volte">VoLTE Icon</string>
-    <string name="volte_icon_oos">VoLTE OOS Icon</string>
-    <string name="volte_icon_hd">HD Icon</string>
+    <string name="volte_icon_title">VoLTE simgesi</string>
+    <string name="volte_icon_summary">VoLTE simgesini görüntüle</string>
+    <string name="volte_icon_style_title">VoLTE simgesini seçin</string>
+    <string name="volte_icon_vo">Yalnızca Vo Simgesi</string>
+    <string name="volte_icon_volte">VoLTE simgesi</string>
+    <string name="volte_icon_oos">OOS VoLTE Simgesi</string>
+    <string name="volte_icon_hd">HD simgesi</string>
     <!-- Titles for new preference categories -->
-    <string name="statusbar_qs_keys_title">Status bar/QS</string>
-    <string name="volte_keys_cg_title">VoLTE Icon</string>
-    <string name="navbar_keys_cg_title">Navigation Bar</string>
-    <string name="dt_keys_cg_title">Gestures</string>
-    <string name="notif_qs_keys_title">Notification</string>
+    <string name="statusbar_qs_keys_title">Durum çubuğu/HA</string>
+    <string name="volte_keys_cg_title">VoLTE simgesi</string>
+    <string name="navbar_keys_cg_title">Gezinme çubuğu</string>
+    <string name="dt_keys_cg_title">Hareketler</string>
+    <string name="notif_qs_keys_title">Bildirim</string>
     <!-- Show statusbar on lockscreen -->
-    <string name="lockscreen_show_status_bar_title">Statusbar</string>
-    <string name="lockscreen_show_status_bar_summary">Show statusbar on the lockscreen</string>
+    <string name="lockscreen_show_status_bar_title">Durum Çubuğu</string>
+    <string name="lockscreen_show_status_bar_summary">Kilit ekranında durum çubuğunu göster</string>
     <!-- Navigation Bar -->
-    <string name="navigation_bar_invert_layout_title">Invert layout</string>
+    <string name="navigation_bar_invert_layout_title">Düzeni tersine çevir</string>
     <!-- Statusbar Clock -->
-    <string name="clock_style_category_title">Clock Settings</string>
-    <string name="clock_style_category_summary">Statusbar Clock Tuner</string>
-    <string name="status_bar_clock_title">Clock settings</string>
-    <string name="status_bar_clock_show">Show clock and date</string>
-    <string name="status_bar_clock_style_title">Clock style</string>
-    <string name="status_bar_clock_style_right">Right</string>
-    <string name="status_bar_clock_style_center">Center</string>
-    <string name="status_bar_clock_style_left">Left</string>
-    <string name="status_bar_am_pm_title">AM/PM style</string>
-    <string name="status_bar_am_pm_info">24-hour clock is enabled</string>
+    <string name="clock_style_category_title">Saat Ayarları</string>
+    <string name="clock_style_category_summary">Durum çubuğu saat ayarlayıcısı</string>
+    <string name="status_bar_clock_title">Saat ayarları</string>
+    <string name="status_bar_clock_show">Saat ve tarihi göster</string>
+    <string name="status_bar_clock_style_title">Saat stili</string>
+    <string name="status_bar_clock_style_right">Sağ</string>
+    <string name="status_bar_clock_style_center">Merkez</string>
+    <string name="status_bar_clock_style_left">Sol</string>
+    <string name="status_bar_am_pm_title">ÖÖ/ÖS biçimi</string>
+    <string name="status_bar_am_pm_info">24 Saat Biçimi Etkinleştirildi</string>
     <string name="status_bar_am_pm_normal">Normal</string>
-    <string name="status_bar_am_pm_small">Small</string>
-    <string name="status_bar_am_pm_hidden">Hidden (default)</string>
-    <string name="clock_seconds_display">Show seconds</string>
+    <string name="status_bar_am_pm_small">Küçük</string>
+    <string name="status_bar_am_pm_hidden">Gizli (varsayılan)</string>
+    <string name="clock_seconds_display">Saniyeyi göster</string>
     <string name="clock_date_display">Date</string>
     <string name="clock_date_display_summary">Display custom date before the clock</string>
     <string name="clock_date_display_none">Don\'t show</string>
@@ -133,9 +133,9 @@
     <string name="gaming_mode_hardware_keys_summary">Disable hardware buttons when Gaming mode is turned on</string>
     <string name="gaming_mode_brightness_title">Disable automatic brightness</string>
     <string name="gaming_mode_brightness_summary">Lock screen brightness when Gaming mode is turned on</string>
-    <string name="gaming_mode_ringer_title">Ringer in gaming mode</string>
-    <string name="gaming_mode_ringer_off_title">Do not change</string>
-    <string name="gaming_mode_ringer_vibrate_title">Vibrate</string>
+    <string name="gaming_mode_ringer_title">Oyun modunda zil sesi</string>
+    <string name="gaming_mode_ringer_off_title">Değiştirme</string>
+    <string name="gaming_mode_ringer_vibrate_title">Titreşim</string>
     <string name="gaming_mode_ringer_dnd_title">Do Not Disturb</string>
     <string name="gaming_mode_ringer_silent_title">Silent</string>
     <string name="gaming_mode_notifications_title">Gaming mode indication</string>
