@@ -183,4 +183,7 @@
     <!-- Heads up options -->
     <string name="less_boring_heads_up_title">덜 지루한 헤드업</string>
     <string name="less_boring_heads_up_summary">전화나 메시지, 알람앱 에서만 헤드업 알림 사용</string>
+    <!-- QS footer warnings -->
+    <string name="qs_footer_warnings_title">QS footer warnings</string>
+    <string name="qs_footer_warnings_summary">Display a warning at bottom of the QS panel while your network is monitored by external apps or a VPN</string>
 </resources>
