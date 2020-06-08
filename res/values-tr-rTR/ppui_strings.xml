@@ -160,7 +160,7 @@
     <string name="heads_up_stoplist_title">Durdurma listesi</string>
     <string name="add_heads_up_stoplist_summary">Seçili uygulamalar için bildirim pencerelerini kapat</string>
     <string name="heads_up_blacklist_title">Kara liste</string>
-    <string name="add_heads_up_blacklist_summary">Seçili uygulamalar için bildirim pencerelerini kapat</string>
+    <string name="add_heads_up_blacklist_summary">Seçili uygulamalar için kayan bildirimleri kapat</string>
     <!-- Heads up timeout -->
     <string name="heads_up_time_out_title">Zaman aşımı</string>
     <string name="heads_up_time_out_summary">Bildirm pencereleri <xliff:g id="number">%d</xliff:g> saniye boyunca gösterilir</string>
