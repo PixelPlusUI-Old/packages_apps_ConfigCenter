@@ -27,7 +27,7 @@
     <!-- QS blur -->
     <string name="blur_quicksettings">Hızlı ayarların arkasını bulanıklaştır</string>
     <string name="blur_quicksettings_subtitle">HA arkasındaki arka planı bulanıklaştırır</string>
-    <string name="qs_blur_alpha_title">Alfa bulanıklık</string>
+    <string name="qs_blur_alpha_title">Bulanıklık alfa</string>
     <string name="qs_blur_alpha_summary">Bulanıklık saydamlığını ayarla</string>
     <string name="qs_blur_intensity_title">Bulanıklık yoğunluğu</string>
     <string name="qs_blur_intensity_summary">Bulanıklık yoğunluğunu ve yarıçapını ayarla</string>
@@ -158,9 +158,9 @@
     <string name="heads_up_notifications_summary">Açılır durum çubuğu bildirimleri</string>
     <string name="add_heads_up_package">Uygulama Ekle</string>
     <string name="heads_up_stoplist_title">Durdurma listesi</string>
-    <string name="add_heads_up_stoplist_summary">Seçili uygulamalar için bildirimler pencerelerini kapat</string>
+    <string name="add_heads_up_stoplist_summary">Seçili uygulamalar için bildirim pencerelerini kapat</string>
     <string name="heads_up_blacklist_title">Kara liste</string>
-    <string name="add_heads_up_blacklist_summary">Seçili uygulamalar için bildirimler pencerelerini kapat</string>
+    <string name="add_heads_up_blacklist_summary">Seçili uygulamalar için bildirim pencerelerini kapat</string>
     <!-- Heads up timeout -->
     <string name="heads_up_time_out_title">Zaman aşımı</string>
     <string name="heads_up_time_out_summary">Bildirm pencereleri <xliff:g id="number">%d</xliff:g> saniye boyunca gösterilir</string>
