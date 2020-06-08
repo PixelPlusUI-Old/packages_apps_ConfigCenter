@@ -183,4 +183,7 @@
     <!-- Heads up options -->
     <string name="less_boring_heads_up_title">Менее надоедливые всплывающие уведомления</string>
     <string name="less_boring_heads_up_summary">Показывать всплывающие уведомления только для звонков, сообщений и будильника</string>
+    <!-- QS footer warnings -->
+    <string name="qs_footer_warnings_title">QS footer warnings</string>
+    <string name="qs_footer_warnings_summary">Display a warning at bottom of the QS panel while your network is monitored by external apps or a VPN</string>
 </resources>
