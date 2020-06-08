@@ -113,7 +113,7 @@
     <string name="traffic_title">Trafik Göstergeleri</string>
     <string name="traffic_title_summary">Ağ trafiği göstergelerini özelleştirin</string>
     <string name="network_traffic_title">Ağ trafiği</string>
-    <string name="network_traffic_type">İnternet etkinlik türü seç</string>
+    <string name="network_traffic_type">İnternet etkinlik türünü seç</string>
     <string name="show_network_traffic_up">Giden</string>
     <string name="show_network_traffic_down">Gelen</string>
     <string name="show_network_traffic_all">Giden ve gelen</string>
