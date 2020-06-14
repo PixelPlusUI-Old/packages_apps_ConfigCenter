@@ -184,6 +184,6 @@
     <string name="less_boring_heads_up_title">Notificações flutuantes menos irritantes</string>
     <string name="less_boring_heads_up_summary">Mostrar notificações flutuantes apenas para chamadas, apps de mensagens e alarmes</string>
     <!-- QS footer warnings -->
-    <string name="qs_footer_warnings_title">QS footer warnings</string>
-    <string name="qs_footer_warnings_summary">Display a warning at bottom of the QS panel while your network is monitored by external apps or a VPN</string>
+    <string name="qs_footer_warnings_title">Avisos no rodapé das CR</string>
+    <string name="qs_footer_warnings_summary">Exibir um aviso na parte inferior do painel CR quando a rede estiver sendo monitorada por aplicativos externos ou VPN</string>
 </resources>
