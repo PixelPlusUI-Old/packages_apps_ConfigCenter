@@ -28,27 +28,27 @@
     <string name="blur_quicksettings">Sürətli parametrlər arxasını bulanıqlaşdır</string>
     <string name="blur_quicksettings_subtitle">Sürətli parametrlərin arxasını bulanıqlaşdırma</string>
     <string name="qs_blur_alpha_title">Alfa bulanıqlıq</string>
-    <string name="qs_blur_alpha_summary">Sets the blur transparency</string>
-    <string name="qs_blur_intensity_title">Blur intensity</string>
-    <string name="qs_blur_intensity_summary">Sets the blur intensity/radius</string>
+    <string name="qs_blur_alpha_summary">Blur şəffaflığını təyin edir</string>
+    <string name="qs_blur_intensity_title">Blur intensivliyi</string>
+    <string name="qs_blur_intensity_summary">Blur intensivliyini / radiusunu təyin edir</string>
     <string name="unit_percent">\u0025</string>
     <!-- Power menu -->
-    <string name="hardware_keys_power_key_title">Power button</string>
-    <string name="power_menu_title">Power menu</string>
-    <string name="power_menu_subtitle">Customize power menu</string>
-    <string name="power_menu_screenshot_title">Screenshot</string>
-    <string name="power_menu_screenrecord_title">Screenrecord</string>
-    <string name="power_menu_airplane_title">Airplane mode</string>
-    <string name="power_menu_lockdown_title">Lockdown</string>
+    <string name="hardware_keys_power_key_title">Güc düyməsi</string>
+    <string name="power_menu_title">Güc menyusu</string>
+    <string name="power_menu_subtitle">Güc menyusunu fərdiləşdirin</string>
+    <string name="power_menu_screenshot_title">Ekran görüntüsü</string>
+    <string name="power_menu_screenrecord_title">Ekran çəkilişi</string>
+    <string name="power_menu_airplane_title">Uçuş rejimi</string>
+    <string name="power_menu_lockdown_title">Kilidlə</string>
     <!-- Advanced restart options -->
-    <string name="advanced_reboot_title">Advanced restart</string>
-    <string name="advanced_reboot_summary">When unlocked, include options in the power menu for restarting into recovery or bootloader</string>
+    <string name="advanced_reboot_title">Geniş yenidən başlatma</string>
+    <string name="advanced_reboot_summary">Kilidi açılanda, bərpa etmə və ya yükləmə sisteminə yenidən başlamaq üçün güc menyusuna seçimlər daxil edin</string>
     <!-- Show VoLTE icon on statusbar -->
-    <string name="volte_icon_title">VoLTE icon</string>
-    <string name="volte_icon_summary">Display VoLTE icon</string>
-    <string name="volte_icon_style_title">Select VoLTE Icon</string>
-    <string name="volte_icon_vo">Vo Only Icon</string>
-    <string name="volte_icon_volte">VoLTE Icon</string>
+    <string name="volte_icon_title">VoLTE simgəsi</string>
+    <string name="volte_icon_summary">Ekran VoLTE simgəsi</string>
+    <string name="volte_icon_style_title">VoLTE simgəsini seç</string>
+    <string name="volte_icon_vo">Vo sadəcə simgə</string>
+    <string name="volte_icon_volte">VoLTE simgəsi</string>
     <string name="volte_icon_oos">VoLTE OOS Icon</string>
     <string name="volte_icon_hd">HD Icon</string>
     <!-- Titles for new preference categories -->
