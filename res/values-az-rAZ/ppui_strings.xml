@@ -49,21 +49,21 @@
     <string name="volte_icon_style_title">VoLTE simgəsini seç</string>
     <string name="volte_icon_vo">Vo sadəcə simgə</string>
     <string name="volte_icon_volte">VoLTE simgəsi</string>
-    <string name="volte_icon_oos">VoLTE OOS Icon</string>
-    <string name="volte_icon_hd">HD Icon</string>
+    <string name="volte_icon_oos">VoLTE xidmət xarici simgəsi</string>
+    <string name="volte_icon_hd">HD simgəsi</string>
     <!-- Titles for new preference categories -->
-    <string name="statusbar_qs_keys_title">Status bar/QS</string>
-    <string name="volte_keys_cg_title">VoLTE Icon</string>
-    <string name="navbar_keys_cg_title">Navigation Bar</string>
-    <string name="dt_keys_cg_title">Gestures</string>
-    <string name="notif_qs_keys_title">Notification</string>
+    <string name="statusbar_qs_keys_title">Bildiriş çubuğu/sürətli parametrlər</string>
+    <string name="volte_keys_cg_title">VoLTE simgəsi</string>
+    <string name="navbar_keys_cg_title">Naviqasiya paneli</string>
+    <string name="dt_keys_cg_title">Hərəkətlər</string>
+    <string name="notif_qs_keys_title">Bildirişlər</string>
     <!-- Show statusbar on lockscreen -->
-    <string name="lockscreen_show_status_bar_title">Statusbar</string>
-    <string name="lockscreen_show_status_bar_summary">Show statusbar on the lockscreen</string>
+    <string name="lockscreen_show_status_bar_title">Status paneli</string>
+    <string name="lockscreen_show_status_bar_summary">Kilid ekranında status çubuğunu göstərin</string>
     <!-- Navigation Bar -->
-    <string name="navigation_bar_invert_layout_title">Invert layout</string>
+    <string name="navigation_bar_invert_layout_title">Düzülüşü tərs çevir</string>
     <!-- Statusbar Clock -->
-    <string name="clock_style_category_title">Clock Settings</string>
+    <string name="clock_style_category_title">Saat tənzimləmələri</string>
     <string name="clock_style_category_summary">Statusbar Clock Tuner</string>
     <string name="status_bar_clock_title">Clock settings</string>
     <string name="status_bar_clock_show">Show clock and date</string>
